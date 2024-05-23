@@ -1,0 +1,1 @@
+.s files inside mcontrol6 directory has ebreak call. Change test name in gdbserver to run .
